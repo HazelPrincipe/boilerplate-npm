@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "hazelprincipe",
+	"author": "hazel",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
